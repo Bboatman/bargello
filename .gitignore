@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.png
+*.jpeg
+*.jpg
+
+ref_imgs/*
+cut_guide.txt
+design_out.png
+.DS_Store
